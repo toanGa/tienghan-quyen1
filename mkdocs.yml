@@ -4,7 +4,7 @@ site_url: https://toanga.github.io/tienghan-quyen1/
 repo_url: https://github.com/toanGa/tienghan-quyen1
 repo_name: toanGa/tienghan-quyen1
 
-docs_dir: .
+docs_dir: docs
 site_dir: site
 exclude_docs: |
   .github/
