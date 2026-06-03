@@ -47,21 +47,13 @@ nav:
   - Trang chủ: index.md
   - Bài học:
       - Bài 01 - 소개: lessons/bai-01.md
-      - Bài 02 - 학교: lessons/bai-02.md
-      - Bài 03 - 일상생활: lessons/bai-03.md
-      - Bài 04 - 날짜와 요일: lessons/bai-04.md
-      - Bài 05 - 하루 일과: lessons/bai-05.md
       - Bài 06 - 주말: lessons/bai-06.md
       - Bài 07 - 물건 사기 (1): lessons/bai-07.md
-      - Bài 08 - 음식: lessons/bai-08.md
-      - Bài 09 - 집: lessons/bai-09.md
-      - Bài 10 - 가족: lessons/bai-10.md
-      - Bài 11 - 날씨: lessons/bai-11.md
-      - Bài 12 - 전화 (1): lessons/bai-12.md
-      - Bài 13 - 생일: lessons/bai-13.md
-      - Bài 14 - 취미: lessons/bai-14.md
-      - Bài 15 - 교통 (1): lessons/bai-15.md
   - Ngữ pháp:
       - 입니다: grammar/imnida.md
       - 입니까?: grammar/imnikka.md
       - 은/는: grammar/eun-neun.md
+      - -았/었어요: grammar/past-tense-aeosseoyo.md
+      - 하고: grammar/hago.md
+      - -(으)ㅂ시다: grammar/eupsida.md
+      - -고 싶어요: grammar/go-sipeoyo.md
