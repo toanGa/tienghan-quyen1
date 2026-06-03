@@ -1,0 +1,67 @@
+site_name: Tiếng Hàn Tổng Hợp - Sơ Cấp 1
+site_description: Website tự học Tiếng Hàn Tổng Hợp dành cho người Việt - Quyển 1
+site_url: https://toanga.github.io/tienghan-quyen1/
+repo_url: https://github.com/toanGa/tienghan-quyen1
+repo_name: toanGa/tienghan-quyen1
+
+theme:
+  name: material
+  language: vi
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Chuyển sang giao diện tối
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Chuyển sang giao diện sáng
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+
+nav:
+  - Trang chủ: index.md
+  - Bài học:
+      - Bài 01 - 소개: lessons/bai-01.md
+      - Bài 02 - 학교: lessons/bai-02.md
+      - Bài 03 - 일상생활: lessons/bai-03.md
+      - Bài 04 - 날짜와 요일: lessons/bai-04.md
+      - Bài 05 - 하루 일과: lessons/bai-05.md
+      - Bài 06 - 주말: lessons/bai-06.md
+      - Bài 07 - 물건 사기 (1): lessons/bai-07.md
+      - Bài 08 - 음식: lessons/bai-08.md
+      - Bài 09 - 집: lessons/bai-09.md
+      - Bài 10 - 가족: lessons/bai-10.md
+      - Bài 11 - 날씨: lessons/bai-11.md
+      - Bài 12 - 전화 (1): lessons/bai-12.md
+      - Bài 13 - 생일: lessons/bai-13.md
+      - Bài 14 - 취미: lessons/bai-14.md
+      - Bài 15 - 교통 (1): lessons/bai-15.md
+  - Ngữ pháp:
+      - 입니다: grammar/imnida.md
+      - 입니까?: grammar/imnikka.md
+      - 은/는: grammar/eun-neun.md
