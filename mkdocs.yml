@@ -4,6 +4,13 @@ site_url: https://toanga.github.io/tienghan-quyen1/
 repo_url: https://github.com/toanGa/tienghan-quyen1
 repo_name: toanGa/tienghan-quyen1
 
+docs_dir: .
+site_dir: site
+exclude_docs: |
+  .github/
+  site/
+  .git/
+
 theme:
   name: material
   language: vi
@@ -53,7 +60,7 @@ nav:
       - 입니다: grammar/imnida.md
       - 입니까?: grammar/imnikka.md
       - 은/는: grammar/eun-neun.md
-      - -았/었어요: grammar/past-tense-aeosseoyo.md
+      - "-았/었어요": grammar/past-tense-aeosseoyo.md
       - 하고: grammar/hago.md
-      - -(으)ㅂ시다: grammar/eupsida.md
-      - -고 싶어요: grammar/go-sipeoyo.md
+      - "-(으)ㅂ시다": grammar/eupsida.md
+      - "-고 싶어요": grammar/go-sipeoyo.md
