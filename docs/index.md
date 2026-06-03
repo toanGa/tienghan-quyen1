@@ -8,42 +8,42 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-book-open-page-variant: **Bài học đã hoàn thiện**
+-   **Bài học đã hoàn thiện**
 
     ---
 
     Học theo từng chủ đề với từ vựng, ngữ pháp, hội thoại và bài tập.
 
-    [:octicons-arrow-right-24: Bắt đầu với Bài 01](lessons/bai-01.md)
+    [Bắt đầu với Bài 01](lessons/bai-01.md)
 
--   :material-school: **Đang học: Bài 06 - 주말**
+-   **Đang học: Bài 06 - 주말**
 
     ---
 
     Kể việc đã làm cuối tuần, hỏi sở thích và rủ bạn cùng làm gì đó.
 
-    [:octicons-arrow-right-24: Mở Bài 06](lessons/bai-06.md)
+    [Mở Bài 06](lessons/bai-06.md)
 
--   :material-cart: **Bài 07 - Mua sắm**
+-   **Bài 07 - Mua sắm**
 
     ---
 
     Hỏi giá, mua đồ, dùng số đếm và nói mong muốn bằng `-고 싶어요`.
 
-    [:octicons-arrow-right-24: Mở Bài 07](lessons/bai-07.md)
+    [Mở Bài 07](lessons/bai-07.md)
 
--   :material-text-box-check: **Wiki ngữ pháp**
+-   **Bài 08 - 음식**
 
     ---
 
-    Tra cứu nhanh các cấu trúc đã học trong từng bài.
+    Gọi món, nói về khẩu vị và dùng `-지 않다`, `-(으)세요`.
 
-    [:octicons-arrow-right-24: Xem ngữ pháp](grammar/imnida.md)
+    [Mở Bài 08](lessons/bai-08.md)
 
 </div>
 
 !!! note "Trạng thái nội dung"
-    Hiện các bài đã được nâng cấp theo format MkDocs Material gồm **Bài 01, Bài 06 và Bài 07**. Các bài còn lại sẽ được bổ sung dần theo cùng cấu trúc.
+    Hiện các bài đã được nâng cấp theo format MkDocs Material gồm **Bài 01, Bài 06, Bài 07 và Bài 08**. Các bài còn lại sẽ được bổ sung dần theo cùng cấu trúc.
 
 ## Bài học
 
@@ -52,6 +52,7 @@ hide:
 | [Bài 01](lessons/bai-01.md) | 소개 - Giới thiệu | Chào hỏi, tên, quốc tịch, nghề nghiệp |
 | [Bài 06](lessons/bai-06.md) | 주말 - Cuối tuần | Quá khứ, hoạt động cuối tuần, rủ rê |
 | [Bài 07](lessons/bai-07.md) | 물건 사기 (1) - Mua sắm (1) | Hỏi giá, mua hàng, số đếm, mong muốn |
+| [Bài 08](lessons/bai-08.md) | 음식 - Thức ăn | Gọi món, khẩu vị, phủ định, mời/yêu cầu |
 
 ## Ngữ pháp đã có
 
@@ -112,6 +113,22 @@ hide:
     Diễn tả mong muốn làm gì đó.
 
     [Xem bài](grammar/go-sipeoyo.md)
+
+-   **-지 않다**
+
+    ---
+
+    Phủ định động từ hoặc tính từ.
+
+    [Xem bài](grammar/ji-anta.md)
+
+-   **-(으)세요**
+
+    ---
+
+    Mời, đề nghị hoặc yêu cầu lịch sự.
+
+    [Xem bài](grammar/euseyo.md)
 
 </div>
 
