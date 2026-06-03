@@ -56,6 +56,7 @@ nav:
       - Bài 01 - 소개: lessons/bai-01.md
       - Bài 06 - 주말: lessons/bai-06.md
       - Bài 07 - 물건 사기 (1): lessons/bai-07.md
+      - Bài 08 - 음식: lessons/bai-08.md
   - Ngữ pháp:
       - 입니다: grammar/imnida.md
       - 입니까?: grammar/imnikka.md
@@ -64,3 +65,5 @@ nav:
       - 하고: grammar/hago.md
       - "-(으)ㅂ시다": grammar/eupsida.md
       - "-고 싶어요": grammar/go-sipeoyo.md
+      - "-지 않다": grammar/ji-anta.md
+      - "-(으)세요": grammar/euseyo.md
