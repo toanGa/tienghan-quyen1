@@ -74,6 +74,8 @@ nav:
       - Bài 11 - 날씨: lessons/bai-11.md
       - Bài 12 - 전화 (1): lessons/bai-12.md
       - Bài 13 - 생일: lessons/bai-13.md
+      - Bài 14 - 취미: lessons/bai-14.md
+      - Bài 15 - 교통 (1): lessons/bai-15.md
   - Ngữ pháp:
       - 입니다: grammar/imnida.md
       - 입니까?: grammar/imnikka.md
@@ -83,6 +85,8 @@ nav:
       - "-(으)ㄹ 거예요": grammar/eul-geoyeyo.md
       - "-(으)려고 하다": grammar/euryeogo-hada.md
       - "-(으)ㄹ까요?": grammar/eulkkayo.md
+      - "-(으)ㄹ 수 있다/없다": grammar/eul-su-itda.md
+      - "(으)로": grammar/euro.md
       - "-ㅂ/습니다": grammar/seumnida.md
       - Số Hán Hàn: grammar/sino-korean-numbers.md
       - "-아/어요": grammar/a-eoyo.md
