@@ -1,55 +1,113 @@
 ---
-title: "Bài 13: 생일 — Sinh nhật"
+title: "Bài 13 - 생일 (Sinh nhật)"
 lesson: 13
 korean: "생일"
 vietnamese: "Sinh nhật"
 ---
 
-# Bài 13: 생일 — Sinh nhật
+# Bài 13 - 생일 (Sinh nhật)
 
-> Ghi chú: nội dung này là bản tóm tắt học tập để bạn dựng website tĩnh, không chép nguyên văn giáo trình.
+!!! abstract "Mục tiêu bài học"
+    Sau bài này, bạn có thể hỏi ngày sinh nhật, chúc mừng sinh nhật, tặng quà và mời bạn bè tham gia tiệc sinh nhật.
 
-## Mục tiêu bài học
+## Liên kết nhanh
 
-- Chúc mừng sinh nhật
-- Mời dự tiệc
-- Nói lý do đơn giản
+- [-(으)ㄹ까요?](../grammar/eulkkayo.md)
 
-## Từ vựng trọng tâm
+=== "Từ vựng"
 
-- Ngày sinh nhật
-- Quà tặng
-- Tiệc sinh nhật
+    ## Sinh nhật
 
-## Ngữ pháp trọng tâm
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 생일 | sinh nhật |
+    | 생일 파티 | tiệc sinh nhật |
+    | 케이크 | bánh kem |
+    | 촛불 | nến |
+    | 선물 | quà tặng |
 
-### -아/어서
+    ## Chúc mừng
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 축하하다 | chúc mừng |
+    | 생일 축하합니다 | chúc mừng sinh nhật |
+    | 초대하다 | mời |
+    | 준비하다 | chuẩn bị |
 
-### 못
+=== "Ngữ pháp"
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    ## 1. -아/어서
 
-### -(으)ㄹ까요
+    Chỉ nguyên nhân hoặc nối hành động.
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    Ví dụ:
 
-## Mẫu câu
+    - 생일이라서 기뻐요.
+    - 시간이 없어서 못 가요.
 
-- `생일이 언제예요?`
-- `선물을 샀어요.`
-- `같이 갈까요?`
+    ## 2. 못
 
-## Luyện tập nhanh
+    Không thể.
 
-1. Viết 3 câu sử dụng từ vựng của bài.
-2. Viết 2 câu sử dụng mỗi điểm ngữ pháp.
-3. Tự tạo một đoạn hội thoại ngắn 4–6 câu theo chủ đề bài học.
+    Ví dụ:
 
-## Checklist
+    - 오늘 못 가요.
+    - 케이크를 못 샀어요.
 
-- [ ] Thuộc từ vựng chính
-- [ ] Hiểu ngữ pháp
-- [ ] Đọc được mẫu câu
-- [ ] Tự nói được ít nhất 5 câu theo chủ đề
+    ## 3. -(으)ㄹ까요?
+
+    Rủ rê hoặc đề nghị.
+
+    Ví dụ:
+
+    - 같이 갈까요?
+    - 선물을 살까요?
+
+    Xem thêm: [-(으)ㄹ까요?](../grammar/eulkkayo.md)
+
+=== "Mẫu câu"
+
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 생일이 언제예요? | Sinh nhật bạn khi nào? |
+    | 생일 축하합니다. | Chúc mừng sinh nhật. |
+    | 선물을 샀어요. | Tôi đã mua quà. |
+    | 같이 갈까요? | Cùng đi nhé? |
+    | 케이크를 준비했어요. | Tôi đã chuẩn bị bánh kem. |
+
+=== "Hội thoại"
+
+    A: 생일이 언제예요?
+
+    B: 다음 주 토요일이에요.
+
+    A: 생일 축하합니다.
+
+    B: 감사합니다.
+
+    A: 같이 선물을 살까요?
+
+    B: 좋아요.
+
+=== "Luyện tập"
+
+    1. Viết lời chúc sinh nhật bằng tiếng Hàn.
+    2. Đặt 5 câu với 못.
+    3. Đặt 5 câu với -(으)ㄹ까요?.
+
+=== "Tổng kết"
+
+    | Cấu trúc | Nghĩa |
+    |---|---|
+    | -아/어서 | vì, nên |
+    | 못 | không thể |
+    | -(으)ㄹ까요? | cùng... nhé? |
+
+    ## Câu cần thuộc
+
+    1. 생일이 언제예요?
+    2. 생일 축하합니다.
+    3. 선물을 샀어요.
+    4. 같이 갈까요?
+    5. 케이크를 준비했어요.
