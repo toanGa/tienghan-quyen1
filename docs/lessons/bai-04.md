@@ -1,54 +1,123 @@
 ---
-title: "Bài 04: 날짜와 요일 — Ngày và thứ"
+title: "Bài 04 - 날짜와 요일 (Ngày và thứ)"
 lesson: 4
 korean: "날짜와 요일"
 vietnamese: "Ngày và thứ"
 ---
 
-# Bài 04: 날짜와 요일 — Ngày và thứ
+# Bài 04 - 날짜와 요일 (Ngày và thứ)
 
-> Ghi chú: nội dung này là bản tóm tắt học tập để bạn dựng website tĩnh, không chép nguyên văn giáo trình.
+!!! abstract "Mục tiêu bài học"
+    Sau bài này, bạn có thể nói ngày tháng, thứ trong tuần, hẹn lịch đơn giản và sử dụng số Hán Hàn trong giao tiếp.
 
-## Mục tiêu bài học
+## Liên kết nhanh
 
-- Hỏi ngày tháng
-- Hẹn lịch đơn giản
+- [Số Hán Hàn](../grammar/sino-korean-numbers.md)
 
-## Từ vựng trọng tâm
+=== "Từ vựng"
 
-- Thứ
-- Ngày tháng
-- Thời gian
+    ## Thứ trong tuần
 
-## Ngữ pháp trọng tâm
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 월요일 | thứ Hai |
+    | 화요일 | thứ Ba |
+    | 수요일 | thứ Tư |
+    | 목요일 | thứ Năm |
+    | 금요일 | thứ Sáu |
+    | 토요일 | thứ Bảy |
+    | 일요일 | Chủ nhật |
 
-### Số Hán Hàn
+    ## Ngày tháng
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 년 | năm |
+    | 월 | tháng |
+    | 일 | ngày |
+    | 오늘 | hôm nay |
+    | 내일 | ngày mai |
+    | 어제 | hôm qua |
 
-### 와/과
+=== "Ngữ pháp"
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    ## 1. 와/과
 
-### 에
+    Dùng để nối hai danh từ, nghĩa là "và".
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    | Sau phụ âm | Sau nguyên âm |
+    |---|---|
+    | 과 | 와 |
 
-## Mẫu câu
+    Ví dụ:
 
-- `오늘은 2월 15일입니다.`
-- `월요일에 한국어를 공부합니다.`
-- `친구와 영화를 봅니다.`
+    - 친구와 영화를 봐요.
+    - 책과 공책이 있어요.
 
-## Luyện tập nhanh
+    ## 2. 에
 
-1. Viết 3 câu sử dụng từ vựng của bài.
-2. Viết 2 câu sử dụng mỗi điểm ngữ pháp.
-3. Tự tạo một đoạn hội thoại ngắn 4–6 câu theo chủ đề bài học.
+    Dùng để chỉ thời gian.
 
-## Checklist
+    Ví dụ:
 
-- [ ] Thuộc từ vựng chính
-- [ ] Hiểu ngữ pháp
-- [ ] Đọc được mẫu câu
-- [ ] Tự nói được ít nhất 5 câu theo chủ đề
+    - 월요일에 공부해요.
+    - 3시에 만나요.
+
+    ## 3. Số Hán Hàn
+
+    Dùng trong ngày tháng.
+
+    Ví dụ:
+
+    - 2월 15일
+    - 5월 10일
+
+    Xem thêm: [Số Hán Hàn](../grammar/sino-korean-numbers.md)
+
+=== "Mẫu câu"
+
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 오늘은 몇 월 며칠이에요? | Hôm nay là ngày mấy tháng mấy? |
+    | 오늘은 2월 15일이에요. | Hôm nay là ngày 15 tháng 2. |
+    | 무슨 요일이에요? | Hôm nay là thứ mấy? |
+    | 월요일이에요. | Thứ Hai. |
+    | 월요일에 한국어를 공부해요. | Tôi học tiếng Hàn vào thứ Hai. |
+
+=== "Hội thoại"
+
+    A: 오늘은 몇 월 며칠이에요?
+
+    B: 오늘은 2월 15일이에요.
+
+    A: 무슨 요일이에요?
+
+    B: 월요일이에요.
+
+    A: 월요일에 뭐 해요?
+
+    B: 한국어를 공부해요.
+
+=== "Luyện tập"
+
+    1. Viết ngày sinh của bạn bằng tiếng Hàn.
+    2. Viết các thứ trong tuần từ thứ Hai đến Chủ nhật.
+    3. Đặt 5 câu với 에.
+    4. Đặt 5 câu với 와/과.
+
+=== "Tổng kết"
+
+    | Cấu trúc | Nghĩa |
+    |---|---|
+    | 와/과 | và |
+    | 에 | vào (thời gian) |
+    | 월요일에 | vào thứ Hai |
+    | 2월 15일 | ngày 15 tháng 2 |
+
+    ## Câu cần thuộc
+
+    1. 오늘은 몇 월 며칠이에요?
+    2. 오늘은 2월 15일이에요.
+    3. 무슨 요일이에요?
+    4. 월요일에 공부해요.
+    5. 친구와 영화를 봐요.
