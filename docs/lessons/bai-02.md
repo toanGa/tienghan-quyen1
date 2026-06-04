@@ -1,62 +1,144 @@
 ---
-title: "Bài 02: 학교 — Trường học"
+title: "Bài 02 - 학교 (Trường học)"
 lesson: 2
 korean: "학교"
 vietnamese: "Trường học"
 ---
 
-# Bài 02: 학교 — Trường học
+# Bài 02 - 학교 (Trường học)
 
-> Ghi chú: nội dung này là bản tóm tắt học tập để bạn dựng website tĩnh, không chép nguyên văn giáo trình.
+!!! abstract "Mục tiêu bài học"
+    Sau bài này, bạn có thể giới thiệu địa điểm trong trường học, chỉ đồ vật, hỏi vị trí và sử dụng các đại từ chỉ định cơ bản.
 
-## Mục tiêu bài học
+## Liên kết nhanh
 
-- Giới thiệu trường học
-- Hỏi vị trí đồ vật
+- [이/가](../grammar/i-ga.md)
 
-## Từ vựng trọng tâm
+=== "Từ vựng"
 
-- Địa điểm
-- Trang thiết bị trường học
-- Đồ vật trong phòng học
+    ## Địa điểm
 
-## Ngữ pháp trọng tâm
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 학교 | trường học |
+    | 교실 | lớp học |
+    | 도서관 | thư viện |
+    | 사무실 | văn phòng |
+    | 운동장 | sân vận động |
 
-### 여기/거기/저기
+    ## Đồ vật trong lớp
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 책상 | bàn học |
+    | 의자 | ghế |
+    | 책 | sách |
+    | 사전 | từ điển |
+    | 공책 | vở |
+    | 가방 | cặp sách |
 
-### 이것/그것/저것
+=== "Ngữ pháp"
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    ## 1. 여기 / 거기 / 저기
 
-### 이/가
+    | Từ | Nghĩa |
+    |---|---|
+    | 여기 | ở đây |
+    | 거기 | ở đó |
+    | 저기 | ở đằng kia |
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    Ví dụ:
 
-### 에 있습니다
+    - 여기는 교실입니다.
+    - 저기는 도서관입니다.
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    ## 2. 이것 / 그것 / 저것
 
-### 이/가 아닙니다
+    | Từ | Nghĩa |
+    |---|---|
+    | 이것 | cái này |
+    | 그것 | cái đó |
+    | 저것 | cái kia |
 
-- Ghi nhớ cấu trúc, cách chia và luyện đặt câu riêng.
+    Ví dụ:
 
-## Mẫu câu
+    - 이것은 책입니다.
+    - 저것은 사전입니다.
 
-- `여기는 학교입니다.`
-- `교실에 책상이 있습니다.`
-- `이것은 사전이 아닙니다.`
+    ## 3. 이/가
 
-## Luyện tập nhanh
+    Tiểu từ chủ ngữ.
 
-1. Viết 3 câu sử dụng từ vựng của bài.
-2. Viết 2 câu sử dụng mỗi điểm ngữ pháp.
-3. Tự tạo một đoạn hội thoại ngắn 4–6 câu theo chủ đề bài học.
+    Ví dụ:
 
-## Checklist
+    - 책상이 있습니다.
+    - 의자가 있습니다.
 
-- [ ] Thuộc từ vựng chính
-- [ ] Hiểu ngữ pháp
-- [ ] Đọc được mẫu câu
-- [ ] Tự nói được ít nhất 5 câu theo chủ đề
+    Xem thêm: [이/가](../grammar/i-ga.md)
+
+    ## 4. 에 있습니다
+
+    Dùng để nói vị trí.
+
+    Ví dụ:
+
+    - 책이 책상 위에 있습니다.
+    - 사전이 교실에 있습니다.
+
+    ## 5. 이/가 아닙니다
+
+    Dùng để phủ định danh từ.
+
+    Ví dụ:
+
+    - 이것은 사전이 아닙니다.
+    - 여기는 도서관이 아닙니다.
+
+=== "Mẫu câu"
+
+    | Tiếng Hàn | Nghĩa |
+    |---|---|
+    | 여기는 어디입니까? | Đây là đâu? |
+    | 여기는 교실입니다. | Đây là lớp học. |
+    | 이것은 무엇입니까? | Đây là cái gì? |
+    | 이것은 책입니다. | Đây là quyển sách. |
+    | 책이 어디에 있습니까? | Sách ở đâu? |
+
+=== "Hội thoại"
+
+    A: 여기는 어디입니까?
+
+    B: 여기는 교실입니다.
+
+    A: 이것은 무엇입니까?
+
+    B: 이것은 사전입니다.
+
+    A: 책이 어디에 있습니까?
+
+    B: 책상 위에 있습니다.
+
+=== "Luyện tập"
+
+    1. Đặt 5 câu với 이것/그것/저것.
+    2. Đặt 5 câu với 여기/거기/저기.
+    3. Đặt 5 câu với 에 있습니다.
+    4. Viết 3 câu phủ định bằng 이/가 아닙니다.
+
+=== "Tổng kết"
+
+    | Cấu trúc | Nghĩa |
+    |---|---|
+    | 여기/거기/저기 | đây/đó/kia |
+    | 이것/그것/저것 | cái này/cái đó/cái kia |
+    | 이/가 | chủ ngữ |
+    | 에 있습니다 | ở, tồn tại |
+    | 이/가 아닙니다 | không phải |
+
+    ## Câu cần thuộc
+
+    1. 여기는 교실입니다.
+    2. 이것은 책입니다.
+    3. 책이 어디에 있습니까?
+    4. 책상 위에 있습니다.
+    5. 이것은 사전이 아닙니다.
