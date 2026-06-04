@@ -62,6 +62,7 @@ nav:
   - Trang chủ: index.md
   - Bài học:
       - Bài 01 - 소개: lessons/bai-01.md
+      - Bài 02 - 학교: lessons/bai-02.md
       - Bài 03 - 일상생활: lessons/bai-03.md
       - Bài 04 - 날짜와 요일: lessons/bai-04.md
       - Bài 05 - 하루 일과: lessons/bai-05.md
@@ -73,6 +74,7 @@ nav:
       - 입니다: grammar/imnida.md
       - 입니까?: grammar/imnikka.md
       - 은/는: grammar/eun-neun.md
+      - 이/가: grammar/i-ga.md
       - "-ㅂ/습니다": grammar/seumnida.md
       - Số Hán Hàn: grammar/sino-korean-numbers.md
       - "-아/어요": grammar/a-eoyo.md
